@@ -17,7 +17,7 @@ course.
 2. Fortran *(the language of spaghetti code)*
 3. Perl *(the language that uses dynamic scoping... yes, dynamic scoping)*
 4. Prolog *(a powerful language that blows your mind in 2 lines)*
-5. ML *(I still don't know why this language is for. Don't tell Jimmy pls.)*
+5. ML *(I still don't know what this language is for. Don't tell Jimmy pls.)*
 
 *My biggest goals right now:*
 - [x] Finish Milestone1
